@@ -1,0 +1,11 @@
+Completar por cada grupo
+
+
+Nombre del Grupo: <nombre>
+Integrantes: <apellido, nombres - DNI>
+
+Nombre del Grupo: Docentes
+Integrantes: Uva, Marcelo   - 99.999.999
+             Arsaute, Ariel - 88.888.888
+             
+
