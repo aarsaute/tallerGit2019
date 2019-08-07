@@ -9,3 +9,5 @@ Integrantes: Uva, Marcelo   - 99.999.999
              Arsaute, Ariel - 88.888.888
              
 
+Nombre del Grupo: Grupo 1
+Integrantes: <apellido, nombres - DNI>
